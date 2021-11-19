@@ -1,7 +1,7 @@
 {
-      "name": "EmiliaBot",
+      "name": "YannnRobots",
       "description": "An Anime themed Telegram group management bot.",
-      "logo": "https://telegra.ph/file/3cf1be03a3b1653cc98d1.jpg", 
+      "logo": "https://telegra.ph/file/6e328e12c65aecae3da8c.jpg", 
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "Emilia"
       ],   
-   "repository": "https://github.com/IzumiCypherX/EmiliaAnimeBot",
+   "repository": "https://github.com/YannnFrp/YannnRobots",
    "addons": [
       {
          "options": {
