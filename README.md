@@ -14,8 +14,8 @@ These are the Things that Tangent Can Help You With:
 
 + [x] Forks
 + [x] Main Repo Erros/Guidance
-+ [ ] Kangs [forks with no trace of original repo are considered kangs]
-+ [ ] Deploying Your Bot
++ [x] Kangs [forks with no trace of original repo are considered kangs]
++ [x] Deploying Your Bot
 
 ### Can be found on telegram as [Emilia](https://t.me/YannnRobot).
 
